@@ -889,4 +889,12 @@ ol {
 
 /* Модальное окно - НАПОЛНЕНИЕ !! */
 
-.modal-title {}
+.modal-title {
+    Font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+
+}
