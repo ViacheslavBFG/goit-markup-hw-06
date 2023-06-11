@@ -64,9 +64,9 @@ img {
     border-radius: 2px;
     opacity: 0;
     transition: opacity 250ms cubic-bezier(0.4, 0, 0.2, 1);
-   
-    
-    
+
+
+
 
 }
 
@@ -74,9 +74,9 @@ img {
 .header-link:focus:after,
 .header-link.current:after {
     opacity: 1;
-    
-   
-    
+
+
+
 
 }
 
@@ -835,6 +835,7 @@ ol {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%) scale(1);
+    padding: 72px 24px 24px 24px;
 
 
 }
@@ -885,3 +886,7 @@ ol {
 
 
 }
+
+/* Модальное окно - НАПОЛНЕНИЕ !! */
+
+.modal-title {}
