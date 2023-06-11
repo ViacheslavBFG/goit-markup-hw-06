@@ -987,3 +987,19 @@ ol {
 
     border-color: #4D5AE5;
 }
+
+
+.privite-setting{
+
+    font-size: 12px;
+    line-height: 1.17; 
+    letter-spacing: 0.04em;
+    color:var(--customers-link-color)
+
+
+}
+
+.privite-setting span{
+
+    
+}
