@@ -1027,14 +1027,14 @@ ol {
 
 }
 
-.check-input:checked
 
 
 
 
-.check-input:checked + .modal-span-svg  {
+
+input:checked+label>span {
     background-color: var(--header-link-hf);
     border: none;
-    fill:var(--button-bg-color);
+    fill: var(--button-bg-color);
 
 }
