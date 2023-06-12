@@ -1070,6 +1070,14 @@ input:checked+label>span {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #ffffff; 
+    color: #ffffff;
 
 }
+
+.subscribe-inf {
+    display: flex;
+    gap: 24px;
+
+}
+
+
