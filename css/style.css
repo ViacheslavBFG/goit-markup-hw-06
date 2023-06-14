@@ -1026,6 +1026,7 @@ ol {
     align-items: center;
     justify-content: center;
     fill: transparent;
+    margin-right: 8px;
 
 }
 
@@ -1148,10 +1149,7 @@ input:checked+label>span {
     color: #ffffff;
 }
 
-.qweb {
-    padding-left: 8px;
 
-}
 
 .subscribe-box {
     margin-left: 80px;
